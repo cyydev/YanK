@@ -3,4 +3,8 @@ Now is 2019-3-3
 
 this is add to DEV branch!!!
 
+#<<<<<<< HEAD
 master branch don't change
+=======
+this commit is feat branch commit!
+#>>>>>>> feat
