@@ -9,6 +9,10 @@ master branch don't change
 this commit is feat branch commit!
 #>>>>>>> feat
 
+<<<<<<< Updated upstream
 
 
 Bug branch end
+#=======
+Bug branch!!first
+>>>>>>> Stashed changes
